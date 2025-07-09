@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jignesh Rana</h1>
 <h3 align="center">Aspiring Full-Stack Developer and Software Engineer with hands-on experience in research, web development, backend systems, and building scalable, AI-powered solutions to address real-world challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jignesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="jignesh2003" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jignesh2003" alt="jignesh2003" /></a> </p>
 
 - 🔭 I’m currently working on **PHR System**
