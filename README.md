@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jignesh Rana</h1>
 <h3 align="center">Aspiring Full-Stack Developer and Software Engineer with hands-on experience in research, web development, backend systems, and building scalable, AI-powered solutions to address real-world challenges.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jignesh2003" alt="jignesh2003" /></a> </p>
-
 - 🔭 I’m currently working on **PHR System**
 
 - 🌱 I’m currently learning **Spring Boot, ML, Data Engineering**
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jignesh2003&show_icons=true&locale=en" alt="jignesh2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jignesh2003&" alt="jignesh2003" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jignesh2003" alt="jignesh2003" /></a> </p>
